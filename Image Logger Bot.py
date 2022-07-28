@@ -13,7 +13,7 @@ bot.remove_command('help')
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(status=discord.Status.idle, activity=discord.Game(' Joses Fake Image Logger Builder'))
+    await bot.change_presence(status=discord.Status.idle, activity=discord.Game('Change Your Bot Status Here'))
     print(Fore.CYAN + Fore.BLUE +  """
  
   ▄▀▀█▀▄    ▄▀▀▄ ▄▀▄  ▄▀▀█▄   ▄▀▀▀▀▄   ▄▀▀█▄▄▄▄      ▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀█▄▄▄▄  ▄▀▀▄▀▀▀▄      ▄▀▀█▄▄   ▄▀▀▀▀▄   ▄▀▀▀█▀▀▄ 
