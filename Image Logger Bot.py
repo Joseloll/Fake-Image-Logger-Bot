@@ -114,4 +114,4 @@ async def Build(ctx, user: discord.User, *, message=None):
 
 
 
-bot.run('MTAwMTY5NzU4OTE4MTI5MjYzNA.GXj4ex.JVZKKw5vyYShPb1nTyVx5S-jwLaWv4ZRChb7gs')
+bot.run('Your Token')
