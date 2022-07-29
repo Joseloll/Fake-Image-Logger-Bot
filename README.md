@@ -19,7 +19,7 @@ To Make It Look Like A Real Image Logger Builder
 # Note
 - This Is For Educational Purposes Only 
 - This Project Will Be Updated With More Commands In The Future
-
+- The Prefix For The Help Command Is !Help
 # Usage
 - Python 3  https://python.org
 - Install Requirements.bat
